@@ -1,2 +1,2 @@
 # My-git
-Mi git servers
+Mi git servers : http://bastien-c-informatique.fr/git
